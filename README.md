@@ -1,4 +1,5 @@
 # TITTLE
+MINIMISE THE FUNCTION USING K MAP F(A,B,C)=A'B' +BC'+ BC + A'B'C' AND SIMULATE THE LOGIC DIAGRAM USING VERILOG
 
 # THEORY
 With the help of the K-map method, we can find the simplest POS and SOP expression, which is known as the minimum expression.
@@ -37,4 +38,4 @@ or (d,f,b);
 endmodule
 ```
 
-# REFERENCE
+
